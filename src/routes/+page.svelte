@@ -97,7 +97,13 @@
         <div
             class="pt-4 px-12 bg-[#eff3f5] grid grid-cols-2 gap-4 items-center"
         >
-            <img alt="" src="/image.webp" class="w-4/5" />
+            <img
+                alt=""
+                width="224"
+                height="246"
+                src="/image.webp"
+                class="w-4/5"
+            />
             <div class="grid gap-8">
                 <p class="text-center grid gap-1">
                     <span class="text-sm">ادارة المحفظة من قبل الخبير</span>
