@@ -2,8 +2,9 @@
 
 @font-face {
     font-family: almarai;
-    src: url(/Almarai.ttf);
+    src: url(/Almarai.woff2);
     font-weight: bold;
+    font-display: swap;
 }
 body {
     font-family: almarai;

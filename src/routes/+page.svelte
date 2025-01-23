@@ -33,7 +33,7 @@
 
 <div class="h-screen grid place-items-center">
     <!-- component start -->
-    <div class="w-fit rounded-2xl h-fit overflow-clip max-w-2xl">
+    <div class=" rounded-2xl h-fit overflow-clip max-w-2xl w-2xl">
         <h2 class="text-2xl font-bold bg-gray-100 px-8 py-6">
             حساب العائد على الاستثمار
         </h2>
